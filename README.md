@@ -1,16 +1,40 @@
-### Hi there 👋
+# 🏄‍♂️ Andi Ahmad Yusup
 
-<!--
-**andiahmadysx/andiahmadysx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Just only human (Developer/Designer/Fighter)`**
 
-Here are some ideas to get you started:
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium tempora vitae numquam, soluta veritatis quas a, laborum commodi corporis. Dicta eaque itaque fugit? Doloremque animi debitis mollitia ea laudantium, labore dicta fugit dolorum et, neque dolorem commodi odio corrupti. Nam praesentium amet assumenda minus incidunt officia? Veritatis nisi minima ratione cupiditate, deserunt id illo similique iusto voluptatem commodi repudiandae, quia temporibus quae ducimus! Sit unde nihil nulla at eligendi maxime repudiandae cumque reiciendis dignissimos sint? Aperiam, aliquam! Ducimus qui soluta perspiciatis sunt praesentium earum sapiente, suscipit ipsam, assumenda doloremque nisi sit quia neque natus perferendis necessitatibus quam? Cum!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmadysx&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=andiahmadysx&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium tempora vitae numquam, soluta veritatis quas a, laborum commodi corporis. Dicta eaque itaque fugit? Doloremque animi debitis mollitia ea laudantium, labore dicta fugit dolorum et, neque dolorem commodi odio corrupti. Nam praesentium amet assumenda minus incidunt officia? Veritatis nisi minima ratione cupiditate, deserunt id illo similique iusto voluptatem commodi repudiandae, quia temporibus quae ducimus! Sit unde nihil nulla at eligendi maxime repudiandae cumque reiciendis dignissimos sint? Aperiam, aliquam! Ducimus qui soluta perspiciatis sunt praesentium earum sapiente, suscipit ipsam, assumenda doloremque nisi sit quia neque natus perferendis necessitatibus quam? Cum!
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
