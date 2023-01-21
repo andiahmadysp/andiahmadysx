@@ -6,6 +6,18 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium 
 
   
 ---
+#
+
+### 📊 Stats
+
+<div align="center">
+
+![Andi Ahmad Yusup's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmadysx&show_icons=true&theme=tokyonight)   ![GitHub Streak](https://streak-stats.demolab.com/?user=andiahmadysx&theme=tokyonight&border_radius=4.5)
+
+</div>
+
+
+#
 
 ### 🧰 Languages and Tools
 
@@ -27,18 +39,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-#
-
-### 📊 Stats
-
-<div align="center">
-
-![Andi Ahmad Yusup's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmadysx&show_icons=true&theme=tokyonight)   ![GitHub Streak](https://streak-stats.demolab.com/?user=andiahmadysx&theme=tokyonight&border_radius=4.5)
-
-</div>
-
-
-#
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
