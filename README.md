@@ -30,10 +30,12 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium 
 #
 
 ### 📊 Stats
-<div style="display:flex;">
-![Andi Ahmad Yusup's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmadysx&show_icons=true&theme=tokyonight)
+<div style="display:flex; flex-direction:row;">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andiahmadysx&theme=tokyonight&border_radius=4.5)
+[Andi Ahmad Yusup's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiahmadysx&show_icons=true&theme=tokyonight) 
+
+
+[GitHub Streak](https://streak-stats.demolab.com/?user=andiahmadysx&theme=tokyonight&border_radius=4.5)
 </div>
 
 #
