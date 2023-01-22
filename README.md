@@ -2,10 +2,11 @@
 
 **`Just only human (Developer/Designer/Fighter)`**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium tempora vitae numquam, soluta veritatis quas a, laborum commodi corporis. Dicta eaque itaque fugit? Doloremque animi debitis mollitia ea laudantium, labore dicta fugit dolorum et, neque dolorem commodi odio corrupti. Nam praesentium amet assumenda minus incidunt officia? Veritatis nisi minima ratione cupiditate, deserunt id illo similique iusto voluptatem commodi repudiandae, quia temporibus quae ducimus! Sit unde nihil nulla at eligendi maxime repudiandae cumque reiciendis dignissimos sint? Aperiam, aliquam! Ducimus qui soluta perspiciatis sunt praesentium earum sapiente, suscipit ipsam, assumenda doloremque nisi sit quia neque natus perferendis necessitatibus quam? Cum!
+I'm an junior full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. And i'm just a Noob who just started wondering how things work.
 
   
 ---
+
 #
 
 ### 📊 Stats
@@ -17,13 +18,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium 
 </div>
 
 
-#
 
-
-<details>
- <summary><h3>👨‍💻 Andi Ahmad Yusup's Coding Journey</h3></summary>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cumque accusantium tempora vitae numquam, soluta veritatis quas a, laborum commodi corporis. Dicta eaque itaque fugit? Doloremque animi debitis mollitia ea laudantium, labore dicta fugit dolorum et, neque dolorem commodi odio corrupti. Nam praesentium amet assumenda minus incidunt officia? Veritatis nisi minima ratione cupiditate, deserunt id illo similique iusto voluptatem commodi repudiandae, quia temporibus quae ducimus! Sit unde nihil nulla at eligendi maxime repudiandae cumque reiciendis dignissimos sint? Aperiam, aliquam! Ducimus qui soluta perspiciatis sunt praesentium earum sapiente, suscipit ipsam, assumenda doloremque nisi sit quia neque natus perferendis necessitatibus quam? Cum!
-</details>
 
 #
 
