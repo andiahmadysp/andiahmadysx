@@ -2,7 +2,7 @@
 
 **`Just only human (Developer/Designer/Fighter)`**
 
-I'm an junior full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. And i'm just a Noob who just started wondering how things work.
+I'm a junior full stack developer who spends my day in front of the screen, just studying and learning. And i'm just a Noob who just started wondering how things work.
 
   
 ---
