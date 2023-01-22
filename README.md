@@ -1,4 +1,4 @@
-# 🏄‍♂️ Andi Ahmad Yusup
+# 🧬 Andi Ahmad Yusup
 
 **`Only human (Developer/Designer/Fighter)`**
 
