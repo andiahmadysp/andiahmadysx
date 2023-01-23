@@ -22,9 +22,6 @@ I'm a junior full stack developer who spends my day in front of the screen, just
 ![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
 
 
-
-
-
 #
 
 ### 🧰 Languages and Tools
