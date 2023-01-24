@@ -5,8 +5,6 @@
 
 I'm a junior full stack developer who spends my day in front of the screen, just studying and learning. And i'm a Noob who just started wondering how things work.
 
-  
----
 
 #
 
