@@ -16,7 +16,7 @@ I'm a junior full stack developer who spends my day in front of the screen, just
   <!-- <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br> -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=andiahmadysx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br> -->
   <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
 </div> <br>
 
 ![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
