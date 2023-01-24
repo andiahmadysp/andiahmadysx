@@ -1,4 +1,3 @@
-```
 
 # 🧬 Andi Ahmad Yusup
 
@@ -9,11 +8,11 @@ I'm a junior full stack developer who spends my day in front of the screen, just
   
 ---
 
-```
-
 #
 
 ### 📊 Stats
+
+```
 
 <div align="center">
   
@@ -25,11 +24,11 @@ I'm a junior full stack developer who spends my day in front of the screen, just
 
 ![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
 
-
+```
 #
 
 ### 🧰 Languages and Tools
-
+```
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -42,7 +41,7 @@ I'm a junior full stack developer who spends my day in front of the screen, just
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <br />
-
+```
 #
 
 [website]: https://andiahmad.netlify.app
