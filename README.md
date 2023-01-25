@@ -1,5 +1,7 @@
 
-# 🧬 Andi Ahmad Yusup **`Only human (Developer/Designer/Weeaboo)`**
+# 🧬 Andi Ahmad Yusup 
+
+**```Only human (Developer/Designer/Weeaboo)```**
 
 a Noob who just started wondering how things work.
 
