@@ -3,8 +3,6 @@
 
 **```Only human (Developer/Designer/Weeaboo)```**
 
-
-
 #
 
 ### 📊 Stats
