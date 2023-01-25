@@ -3,7 +3,6 @@
 
 **```Only human (Developer/Designer/Weeaboo)```**
 
-a Noob who just started wondering how things work.
 
 
 #
