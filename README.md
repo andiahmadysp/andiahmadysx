@@ -47,8 +47,6 @@
             <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
             <br>CSS
         </td>
-       
-
     </tr>
     <tr>
         <td align="center" width="96">
@@ -88,18 +86,15 @@
 <details>
     <summary>GitHub Profile Stats 💻</summary>
     <br />
-    <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph" />
-
+    <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph"/>
     <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
-    <br />
+    
 </details>
 
 <details>
     <summary>Activity Graph 📈</summary>
     <br />
-
-    ![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
-
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true" />
 </details>
 
 <details>
