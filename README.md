@@ -1,40 +1,111 @@
+# 🏄‍♂️ Andi Ahmad Yusup
 
-# 🧬 Andi Ahmad Yusup 
+**`Just only human (Developer/Designer/Fighter)`**
 
-**```Only human (Developer/Designer/Weeaboo)```**
+## My favorite tools and technologies ⚙️
 
-#
+> Tools and technologies that I have worked with and am interested in
 
-### 📊 Stats
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="mysql" />
+            <br>Java
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
+            <br>React Js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+            <br>JQuery
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+                width="48" height="48" alt="GitHub" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
+                width="48" height="48" alt="GitLab" />
+            <br>GitLab
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+       
+
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="tailwind" />
+            <br>Figma
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+            <br>Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+            <br>Bash
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <br>Docker
+        </td>
+    </tr>
+</table>
 
 
-<div align="center">
-  
-  <!-- <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=andiahmadysx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br> -->
-  <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
-</div> <br>
+## Github stats 📊
 
-![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
+<details>
+    <summary>GitHub Profile Stats 💻</summary>
+    <br />
+    <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph" />
 
-#
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
+    <br />
+</details>
 
-### 🧰 Languages and Tools
+<details>
+    <summary>Activity Graph 📈</summary>
+    <br />
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<br />
+    ![Andi Ahmad Yusup's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true)
 
-#
+</details>
 
-[website]: https://andiahmad.netlify.app
+<details>
+    <summary>Profile Views 👁️</summary>
+    <br />
+    <img
+        src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
