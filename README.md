@@ -101,6 +101,6 @@
     <summary>Profile Views 👁️</summary>
     <br />
     <img
-        src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+        src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=flat&color=blue">
 
 </details>
