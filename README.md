@@ -1,6 +1,6 @@
 # 🏄‍♂️ Andi Ahmad Yusup
 
-**`Only human (Developer/Designer/Weeabo)`**
+**`Only human (Developer/Weeabo)`**
 
 ## My favorite tools and technologies ⚙️
 
