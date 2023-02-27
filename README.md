@@ -1,6 +1,6 @@
 # 🏄‍♂️ Andi Ahmad Yusup
 
-**`Only human (Developer/Weeabo)`**
+**`Only human (Developer/Weeabo/Kaori's Husband)`**
 
 ## My favorite tools and technologies ⚙️
 
