@@ -1,6 +1,6 @@
 # 🏄‍♂️ Andi Ahmad Yusup
 
-**`Only human (Developer/Weeabo/Raphtalia's Husband)`**
+**`Only human(Developer/Weeabo/Raphtalia's Husband)`**
 
 ## My favorite tools and technologies ⚙️
 
