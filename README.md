@@ -86,7 +86,6 @@
 <details>
     <summary>GitHub Profile Stats 💻</summary>
     <br />
-    <img src="https://streak-stats.demolab.com?user=andiahmadysx&theme=tokyonight" height="150" alt="streaks graph"/>
     <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
     
 </details>
