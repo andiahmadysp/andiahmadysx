@@ -81,7 +81,7 @@
 </table>
 
 
-## Github stats 📊
+<!-- ## Github stats 📊
 
 <details>
     <summary>GitHub Profile Stats 💻</summary>
@@ -96,10 +96,10 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true" />
 </details>
 
-<details>
-    <summary>Profile Views 👁️</summary>
+<details> -->
+<!--     <summary>Profile Views 👁️</summary> -->
     <br />
     <img
         src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=flat&color=blue">
-
-</details>
+<!-- 
+</details> -->
