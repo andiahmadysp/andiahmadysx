@@ -98,8 +98,7 @@
 
 <details> -->
 <!--     <summary>Profile Views 👁️</summary> -->
-    <br />
-    <img
-        src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=flat&color=blue">
+ 
+    <img src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=flat&color=blue">
 <!-- 
 </details> -->
