@@ -1,5 +1,4 @@
-
-# 🏄‍♂️ Andi Ahmad Yusup <img src="https://www.codewars.com/users/andiahmadysx/badges/micro" alt="badge" />
+# 🏄‍♂️ Andi Ahmad Yusup ~ <img src="https://www.codewars.com/users/andiahmadysx/badges/micro" alt="badge" />
 
 
 **`Only human(Developer/Weeabo/Rangers Green)`**
