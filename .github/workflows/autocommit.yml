@@ -7,7 +7,7 @@ on:
       - main
       
   schedule:
-  - cron: "0 16 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+  - cron: "38 1 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
 
 jobs:
   auto_commit:
@@ -27,20 +27,20 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "andiahmad.int@gmail.com"
+          git config --local user.email "andiahmadyusup@gmail.com"
           git config --local user.name "andiahmadysx"
           git add -A
           
-          arr[0]="chore(bot): 😂"
-          arr[1]="chore(bot): 😱"
-          arr[2]="chore(bot): 👿"
-          arr[3]="chore(bot): 💩"
-          arr[4]="chore(bot): 🙏"
-          arr[5]="chore(bot): 🙈"
-          arr[6]="chore(bot): 🐐"
-          arr[7]="chore(bot): 🤖"
-          arr[8]="chore(bot): 🟩"
-          arr[9]="chore(bot): 👻"
+          arr[0]="😂"
+          arr[1]="😱"
+          arr[2]="👿"
+          arr[3]="💩"
+          arr[4]="🙏"
+          arr[5]="🙈"
+          arr[6]="🐐"
+          arr[7]="🤖"
+          arr[8]="🟩"
+          arr[9]="👻"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
