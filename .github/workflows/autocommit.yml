@@ -7,7 +7,7 @@ on:
       - main
       
   schedule:
-  - cron: "38 1 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+  - cron: "40 1 * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
 
 jobs:
   auto_commit:
@@ -51,3 +51,4 @@ jobs:
         with:
           directory: "."
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
