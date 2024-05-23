@@ -1,52 +1,69 @@
 name: Commit Profile
 
 on:
-
   push:
     branches:
       - main
-      
+
   schedule:
-  - cron: "0 0,4,8,12,16,20 * * *"
+    # Runs the job every hour
+    - cron: "0 * * * *"
 
 jobs:
   auto_commit:
     runs-on: ubuntu-latest
     steps:
-      - name: DEBUG 
-        run: echo "::debug::Ref = ${{github.ref}}"
-      - uses: actions/checkout@v3      
+      - name: DEBUG
+        run: echo "::debug::Ref = ${{ github.ref }}"
+
+      - uses: actions/checkout@v3
         with:
-         persist-credentials: false
-         fetch-depth: 0
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Decide to Run
+        id: run_decision
+        run: |
+          # Generate a random number between 0 and 1
+          decision=$(shuf -i 0-1 -n 1)
+          echo "::set-output name=decision::$decision"
+
+      - name: Stop if Not Running
+        if: steps.run_decision.outputs.decision == '0'
+        run: echo "Skipping this run"
+
+      - name: Generate random commit count
+        id: commit_count
+        run: echo "::set-output name=count::$(($RANDOM % 13 + 3))"
+
+      - name: Generate random commit messages
+        id: commit_message
+        run: |
+          messages=("🚀 Update README" "🔥 Improve profile" "✨ Enhance profile" "🎨 Style tweak" 
+                    "🔧 Minor fix" "🔨 Refactor README" "💡 Update content" "💎" 
+                    "📝 Revise README" "🔍 Optimize content" "🌟 Enhance README" "🔄 Update profile" "🚀 Improve layout")
+          echo "::set-output name=message::${messages[$RANDOM % ${#messages[@]}]}"
 
       - name: Modify last update
         run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          d=$(date '+%Y-%m-%dT%H:%M:%SZ')
           echo $d > LAST_UPDATED
-          
+
       - name: Commit changes
+        if: steps.run_decision.outputs.decision == '1'
         run: |
           git config --local user.email "andiahmadyusup@gmail.com"
           git config --local user.name "andiahmadysx"
           git add -A
-          
-          arr[0]="😂"
-          arr[1]="😱"
-          arr[2]="👿"
-          arr[3]="💩"
-          arr[4]="🙏"
-          arr[5]="🙈"
-          arr[6]="🐐"
-          arr[7]="🤖"
-          arr[8]="🟩"
-          arr[9]="👻"
-          
-          rand=$[$RANDOM % ${#arr[@]}]
-          
-          git commit -m "${arr[$rand]}"
-          
+
+          count=${{ steps.commit_count.outputs.count }}
+          for i in $(seq 1 $count); do
+            message=${{ steps.commit_message.outputs.message }}
+            git commit -m "$message"
+          done
+
       - name: GitHub Push
+        if: steps.run_decision.outputs.decision == '1'
         uses: ad-m/github-push-action@v0.6.0
         with:
           directory: "."
