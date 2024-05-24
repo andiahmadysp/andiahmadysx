@@ -16,7 +16,7 @@ jobs:
       - name: DEBUG
         run: echo "::debug::Ref = ${{ github.ref }}"
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -26,23 +26,26 @@ jobs:
         run: |
           # Generate a random number between 0 and 1
           decision=$(shuf -i 0-1 -n 1)
-          echo "::set-output name=decision::$decision"
+          echo "decision=$decision" >> $GITHUB_ENV
 
       - name: Stop if Not Running
-        if: steps.run_decision.outputs.decision == '0'
+        if: env.decision == '0'
         run: echo "Skipping this run"
 
       - name: Generate random commit count
         id: commit_count
-        run: echo "::set-output name=count::$(($RANDOM % 13 + 3))"
+        run: |
+          count=$(($RANDOM % 13 + 3))
+          echo "count=$count" >> $GITHUB_ENV
 
       - name: Generate random commit messages
         id: commit_message
         run: |
-          messages=("🚀 Update README" "🔥 Improve profile" "✨ Enhance profile" "🎨 Style tweak" 
-                    "🔧 Minor fix" "🔨 Refactor README" "💡 Update content" "💎" 
-                    "📝 Revise README" "🔍 Optimize content" "🌟 Enhance README" "🔄 Update profile" "🚀 Improve layout")
-          echo "::set-output name=message::${messages[$RANDOM % ${#messages[@]}]}"
+          messages=("🚀 Update README" "🔥 Improve profile" "✨ Enhance page" "🎨 Style tweak" 
+                    "🔧 Minor fix" "🔨 Refactor README" "💡 Update content" "💎 Polish details" 
+                    "📝 Revise README" "🔍 Optimize content" "🌟 Enhance presentation" "🔄 Update profile" "🚀 Improve layout")
+          message=${messages[$RANDOM % ${#messages[@]}]}
+          echo "message=$message" >> $GITHUB_ENV
 
       - name: Modify last update
         run: |
@@ -50,20 +53,18 @@ jobs:
           echo $d > LAST_UPDATED
 
       - name: Commit changes
-        if: steps.run_decision.outputs.decision == '1'
+        if: env.decision == '1'
         run: |
           git config --local user.email "andiahmadyusup@gmail.com"
           git config --local user.name "andiahmadysx"
           git add -A
 
-          count=${{ steps.commit_count.outputs.count }}
           for i in $(seq 1 $count); do
-            message=${{ steps.commit_message.outputs.message }}
             git commit -m "$message"
           done
 
       - name: GitHub Push
-        if: steps.run_decision.outputs.decision == '1'
+        if: env.decision == '1'
         uses: ad-m/github-push-action@v0.6.0
         with:
           directory: "."
