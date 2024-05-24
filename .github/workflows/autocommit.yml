@@ -47,19 +47,16 @@ jobs:
           message=${messages[$RANDOM % ${#messages[@]}]}
           echo "message=$message" >> $GITHUB_ENV
 
-      - name: Modify last update
-        run: |
-          d=$(date '+%Y-%m-%dT%H:%M:%SZ')
-          echo $d > LAST_UPDATED
-
       - name: Commit changes
         if: env.decision == '1'
         run: |
           git config --local user.email "andiahmadyusup@gmail.com"
           git config --local user.name "andiahmadysx"
-          git add -A
-
+          
           for i in $(seq 1 $count); do
+            # Modify LAST_UPDATED to ensure each commit has a unique change
+            echo "$i - $(date '+%Y-%m-%dT%H:%M:%SZ')" > LAST_UPDATED
+            git add LAST_UPDATED
             git commit -m "$message"
           done
 
