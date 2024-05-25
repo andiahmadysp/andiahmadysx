@@ -1,67 +1,52 @@
 name: Commit Profile
 
 on:
+
   push:
     branches:
       - main
-
+      
   schedule:
-    # Runs the job every hour
-    - cron: "0 * * * *"
+  - cron: "0 0,4,8,12,16,20 * * *"
 
 jobs:
   auto_commit:
     runs-on: ubuntu-latest
     steps:
-      - name: DEBUG
-        run: echo "::debug::Ref = ${{ github.ref }}"
-
-      - uses: actions/checkout@v4
+      - name: DEBUG 
+        run: echo "::debug::Ref = ${{github.ref}}"
+      - uses: actions/checkout@v3      
         with:
-          persist-credentials: false
-          fetch-depth: 0
+         persist-credentials: false
+         fetch-depth: 0
 
-      - name: Decide to Run
-        id: run_decision
+      - name: Modify last update
         run: |
-          # Generate a random number between 0 and 1
-          decision=$(shuf -i 0-1 -n 1)
-          echo "decision=$decision" >> $GITHUB_ENV
-
-      - name: Stop if Not Running
-        if: env.decision == '0'
-        run: echo "Skipping this run"
-
-      - name: Generate random commit count
-        id: commit_count
-        run: |
-          count=$(($RANDOM % 13 + 3))
-          echo "count=$count" >> $GITHUB_ENV
-
-      - name: Generate random commit messages
-        id: commit_message
-        run: |
-          messages=("🚀 Update README" "🔥 Improve profile" "✨ Enhance page" "🎨 Style tweak" 
-                    "🔧 Minor fix" "🔨 Refactor README" "💡 Update content" "💎 Polish details" 
-                    "📝 Revise README" "🔍 Optimize content" "🌟 Enhance presentation" "🔄 Update profile" "🚀 Improve layout")
-          message=${messages[$RANDOM % ${#messages[@]}]}
-          echo "message=$message" >> $GITHUB_ENV
-
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+          
       - name: Commit changes
-        if: env.decision == '1'
         run: |
           git config --local user.email "andiahmadyusup@gmail.com"
           git config --local user.name "andiahmadysx"
+          git add -A
           
-          for i in $(seq 1 $count); do
-            # Modify LAST_UPDATED to ensure each commit has a unique change
-            echo "$i - $(date '+%Y-%m-%dT%H:%M:%SZ')" > LAST_UPDATED
-            git add LAST_UPDATED
-            git commit -m "$message"
-          done
-
+          arr[0]="😂"
+          arr[1]="😱"
+          arr[2]="👿"
+          arr[3]="💩"
+          arr[4]="🙏"
+          arr[5]="🙈"
+          arr[6]="🐐"
+          arr[7]="🤖"
+          arr[8]="🟩"
+          arr[9]="👻"
+          
+          rand=$[$RANDOM % ${#arr[@]}]
+          
+          git commit -m "${arr[$rand]}"
+          
       - name: GitHub Push
-        if: env.decision == '1'
         uses: ad-m/github-push-action@v0.6.0
         with:
           directory: "."
